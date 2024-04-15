@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **21cse013jeyasree.d@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DqjCdlnG5-gsnY4RaQEnOl3VCzYz6FQZ/view?usp=drivesdk](https://drive.google.com/file/d/1DqjCdlnG5-gsnY4RaQEnOl3VCzYz6FQZ/view?usp=drivesdk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeya-sree-d-1916b0256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeya-sree-d-1916b0256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
