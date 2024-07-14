@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeya sree D</h1>
-<h3 align="center">An Enthusiastic UG eng student from TamilNadu,India</h3>
+<h3 align="center">An Enthusiastic UG engineering student from TamilNadu,India</h3>
 
 - 🔭 I’m currently working on **ChildTracking and Health monitoring Application**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **21cse013jeyasree.d@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DqjCdlnG5-gsnY4RaQEnOl3VCzYz6FQZ/view?usp=drivesdk](https://drive.google.com/file/d/1DqjCdlnG5-gsnY4RaQEnOl3VCzYz6FQZ/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1-ihsKMN_ZOoVkBba8ggFlB3DKOPFVQhR/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
