@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **21cse013jeyasree.d@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-ihsKMN_ZOoVkBba8ggFlB3DKOPFVQhR/view?usp=drivesdk](https://drive.google.com/file/d/1LZiRvhhYs-7-qeCawMHzN4dAHjlHd217/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1PjVljybGRg7Xwgc3NXG-QMa53i13X8Yu/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
